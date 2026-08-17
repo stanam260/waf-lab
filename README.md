@@ -1,3 +1,7 @@
+
+# WAF Lab Documentation
+
+
 **What is a WAF?**
 
 A Web Application Firewall (WAF) is a security tool that protects web applications by monitoring, filtering, and blocking malicious HTTP/HTTPS traffic between clients and the web application.**
