@@ -6,7 +6,7 @@ A Web Application Firewall (WAF) is a security tool that protects web applicatio
 
 HTTP headers contain additional information sent by a client to a web server as part of an HTTP request.
 
-**Structure of the HTTP headers 
+**Structure of the HTTP headers** 
 
 Every header has the following format   
 
