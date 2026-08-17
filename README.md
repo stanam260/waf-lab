@@ -10,14 +10,14 @@ HTTP headers contain additional information sent by a client to a web server as 
 
 Every header has the following format   
 
-
 <img width="905" height="207" alt="waf1" src="https://github.com/user-attachments/assets/7e763fdd-97e7-4d08-8728-20604b13ddad" />
 
 **HTTP Request Headers**
 
 The following example shows some of the headers included in an HTTP POST request. Each header consists of a name and its corresponding value.
 
-<img width="1308" height="705" alt="waf2" src="https://github.com/user-attachments/assets/dab58c18-e957-4fc5-8e11-3f41c6a913b9" />
+<img width="1304" height="706" alt="waf2" src="https://github.com/user-attachments/assets/63bce221-d4f9-41c8-ac2c-bce52b867c54" />
+
 
 **Host:** Identifies the domain and optional port of the web server the client wants to access
 
