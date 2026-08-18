@@ -76,8 +76,4 @@ After enabling the rule in blocking mode, the WAF blocked the SQL injection and 
 <img width="1413" height="761" alt="waf8" src="https://github.com/user-attachments/assets/550de489-a645-4413-8042-4571124580ab" />
 
 
-## References 
 
-About Rules — OWASP Core Rule Set
-What Are HTTP Headers? — Postman
-What Is a Web Application Firewall (WAF)? — Cloudflare
